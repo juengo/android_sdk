@@ -13,7 +13,7 @@ You would need to include the juengoAndroidSdk.jar in your Android project and i
 
 example:
 
-Juengo juengo = new Juengo(“API_KEY”,”SECRET_KEY”,true,true);
+<code>Juengo juengo = new Juengo(“API_KEY”,”SECRET_KEY”,true,true);</code>
 
 
 Please visit http://developers.juengo.com for information on how to use this API.
